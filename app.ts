@@ -3,5 +3,4 @@ class HelloWorld {
 }
 
 var hello = new HelloWorld("Hello Typescript!");
-
 console.log(hello.message);
